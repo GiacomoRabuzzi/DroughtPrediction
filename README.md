@@ -1,1 +1,4 @@
-# DroughtPrediction
+# Drought prediction using weather data
+Drought effects are often underestimated, yet they can have a significant impact on agriculture, domestic water supply, energy production, public health, wildlife, food security, energy and communities. That’s why it is important to have regularly updated sources of information on drought, even though studying these data requires a lot of work for researchers.
+During this study we fitted various statistical models, for both regression and classification, to see whether they are able to replace experts’ interpretation and work, reducing the human effort necessary to analyze drought data.
+In particular, we employed both traditional statistical models and machine learning techniques, such as random forest, to assess their predictive capabilities and reliability. This approach allowed us to compare the performance of different methodologies and evaluate the potential of automated systems in drought monitoring and analysis.
